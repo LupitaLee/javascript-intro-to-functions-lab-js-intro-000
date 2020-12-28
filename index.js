@@ -4,5 +4,6 @@ function shout(string) {return string.toUpperCase()
 'HELLO!'.toLowerCase() // 'hello'
 function whisper(string){return string.toLowerCase()
 }
-'i must have logged'.toUpperCase()
-function logShout(string){console.log('i must have logged')}
+
+function logShout (string) {
+  console.log(string.toUpperCase( )};
